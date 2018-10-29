@@ -1,2 +1,2 @@
 csodalatos szerelem
-tied vagyok kedverem
+tied vagyok kedvesem
