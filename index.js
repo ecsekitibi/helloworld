@@ -4,7 +4,7 @@ const PORT = 5000;
 module.exports = app;
 
 app.get('/', (req, res) => {
-  res.send('hello fuckin jenkins')
+  res.send('hello fuck jenkins')
 });
 
 app.listen(PORT, () => {
